@@ -96,8 +96,8 @@ print(predict_spam("Congratulations! You've won a free iPhone! Click here to cla
 
 ## 👩‍💻 Author
 - **noussaiba kerrache**
-- **GitHub**: [your-username](https://github.com/nousskrr)
-- **LinkedIn**: [your-profile](https://www.linkedin.com/in/krr-noussaiba-a03892312/)
+- **GitHub**: [nousskrr](https://github.com/nousskrr)
+- **LinkedIn**: [noussaiba kerrache](https://www.linkedin.com/in/krr-noussaiba-a03892312/)
 
 ## ⭐ Contributions & Feedback
 Feel free to **fork**, **open issues**, or **submit PRs**! Feedback is welcome. 😊
